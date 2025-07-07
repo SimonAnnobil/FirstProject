@@ -1,6 +1,6 @@
 <!-- Profile Header Banner (Optional, can replace with your custom banner image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.gif" alt="Welcome Banner" width="100%" />
+  <img src=" https://github.com/SimonAnnobil/FirstProject/blob/985ee4768b67a3aab344483088f2a29094e291e7/profile-pic%20(1).png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Kojo Simon</h1>
